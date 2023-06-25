@@ -11,6 +11,10 @@ class Speaker(models.Model):
 def __str__(self):
     return self.name
 
+
+
+
+
 # creating dummy data for speakers app
 # def create_dummy_speakers():
 #     for i in range(10):

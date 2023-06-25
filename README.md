@@ -1,8 +1,9 @@
 # Conference_project
 Class project for a Conference management App <br>
-## Name: IGIRANEZA WINNY
-## Registration Number: 221023345
-## Department: INFORMATION TECHNOLOGY
+Names                                    REG NUMBER                      DEPARTMENT
+
+1.NTAKIRUTIMANA ANGELIQUE                221009236                       COMPUTER SCIENCE
+1.MURASIRA BRIAN                         22                             COMPUTER SCIENCE  
 
 ## Scenario
 =========== <br>
